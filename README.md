@@ -3,8 +3,8 @@ A simple browser made mostly in C++. You can use it, or get the code and modify 
 
 # Aerostrix Browser
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-in%20development-orange)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
 
 ## Overview
 
