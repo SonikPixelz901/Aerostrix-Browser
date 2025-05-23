@@ -10,7 +10,7 @@ A simple browser made mostly in C++. You can use it, or get the code and modify 
 
 **Aerostrix Browser** is simple browser made mostly in C++. You can use it, or get the code and modify it to whatever you like. This is more of a project for me to learn C++ rather than make the next-gen browser. For now.
 
-> ⚠️ This project is intended for use by purchase only. Unauthorized use in commercial environments without proper permissions may violate software and hardware terms of service.
+> ⚠️ This project is intended for me to learn C++. It is (for now) not serious and may come with serious flaws or security issues.
 
 ## Features
 
