@@ -21,4 +21,4 @@ A simple browser made mostly in C++. You can use it, or get the code and modify 
   Aerostrix Browser is very fast and optimized for performance. It is independent and not based on other big browsers.
 
 - 🌿 **Frutiger Aero**  
-  The calculator features a beautiful once super popular style called Frutiger Aero.
+  The browser features a beautiful once super popular style called Frutiger Aero.
