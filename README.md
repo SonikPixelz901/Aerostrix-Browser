@@ -1,6 +1,3 @@
-# Aerostrix-Browser
-A simple browser made mostly in Rust. You can use it, or get the code and modify it to whatever you like. This is more of a project for me to learn Rust rather than make the next-gen browser. For now.
-
 # Aerostrix Browser
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
